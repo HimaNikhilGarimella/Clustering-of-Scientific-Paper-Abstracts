@@ -27,4 +27,6 @@ cognition in several scientific fields.
 3. Evaluate clustering algorithms and combinations to optimize organization of literature.
 4. Create a user-friendly interface for interactive exploration of clustered papers.
 5. Assess the impact of the system on researchers' efficiency in accessing and comprehending literature.
-<img width="2970" height="588" alt="image" src="https://github.com/user-attachments/assets/910243db-5940-4fac-ad12-8d0c0c41c9b5" />
+
+# Architecture Diagram
+<img width="2574" height="1553" alt="image" src="https://github.com/user-attachments/assets/7e6ef5d5-dc75-47c8-85c7-6840d7c17171" />
