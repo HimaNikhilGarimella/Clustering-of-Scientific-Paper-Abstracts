@@ -19,3 +19,12 @@ knowledge in designated scientific fields. The anticipated benefits are presente
 understanding of the vast amount of scientific knowledge; potential for discovering the hidden patterns in the 
 field of scientific literature; effectiveness in interdisciplinary cooperation; and general progress in scientific 
 cognition in several scientific fields.
+
+
+# Objectives of the project
+1. Develop an unsupervised machine learning framework for clustering scientific papers based on abstracts.
+2. Utilize Latent Dirichlet Allocation (LDA) for topic modeling to extract underlying themes.
+3. Evaluate clustering algorithms and combinations to optimize organization of literature.
+4. Create a user-friendly interface for interactive exploration of clustered papers.
+5. Assess the impact of the system on researchers' efficiency in accessing and comprehending literature.
+<img width="2970" height="588" alt="image" src="https://github.com/user-attachments/assets/910243db-5940-4fac-ad12-8d0c0c41c9b5" />
